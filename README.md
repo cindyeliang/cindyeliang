@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<center><img width="855" height="377" alt="Screenshot 2025-10-03 at 12 46 59 AM" src="https://github.com/user-attachments/assets/00506fc3-8757-44df-b9e3-dbbd2006ff1b" /></center>
+
 <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat"> <img src="https://img.shields.io/badge/-Snakemake-2E9984.svg?logo=snakemake&style=flat"> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> 
 <img src="https://img.shields.io/badge/-Bash-4EAA25.svg?logoColor=white&logo=gnu-bash&style=flat"> 
 <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&logoColor=white&style=flat"> 
