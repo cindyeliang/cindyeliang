@@ -14,7 +14,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-cindy--liang--splicing-0077B5.svg?logo=linkedin&style=flat)](https://www.linkedin.com/in/cindy-liang-splicing/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3763--2987-A6CE39.svg?logo=orcid&style=flat)](https://orcid.org/0000-0003-3763-2987)
 
-- 🔭 I’m currently working on: developing alternative splicing analysis workflows for bulk and single-cell RNA data
+- 🔭 I’m currently working on: building a database of alternative splicing quantifications from pediatric cancer bulk RNA-seq data
 - ⚡ Research interests: Exploring transcriptomic signatures to better understand pediatric cancer
 
 <!-- ##### readme stats ###
