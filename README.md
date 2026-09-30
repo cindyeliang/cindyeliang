@@ -16,6 +16,7 @@
 
 - 🔭 I’m currently working on: building a database of alternative splicing quantifications from pediatric cancer bulk RNA-seq data
 - ⚡ Research interests: Exploring transcriptomic signatures to better understand pediatric cancer
+- Check out my most recent work: [Treehouse Splice Compendium v1](https://github.com/UCSC-Treehouse/splicing-compendium), a data resource of sample-level PSI values for pediatric cancers.
 
 <!-- ##### readme stats ###
 
